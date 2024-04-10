@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "3B955D880EE776A0B6D7F11ADB6733C1",
+  "keywordClasses": [
+    {
+      "name": "newPackage.newKeyWord",
+      "keywordMethods": [
+        {
+          "name": "refreshBrowser",
+          "parameters": [],
+          "javadoc": "/**\r\n\t * Refresh browser\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

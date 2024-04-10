@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test to verify action user on Web page</description>
+   <name>testStandardUser</name>
+   <tag>ICON Training</tag>
+   <comment></comment>
+   <testCaseGuid>079b23bc-29d1-4d2c-b710-c08d0686ac54</testCaseGuid>
+</TestCaseEntity>

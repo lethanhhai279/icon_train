@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "260DA329B95ED3CA6B157977ABF76784",
+  "keywordClasses": [
+    {
+      "name": "customKeywords.CustomHai",
+      "keywordMethods": [
+        {
+          "name": "openNewTab",
+          "parameters": [
+            {
+              "name": "url",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Refresh browser\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

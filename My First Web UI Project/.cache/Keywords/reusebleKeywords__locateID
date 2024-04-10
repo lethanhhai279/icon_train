@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "160DE77D543C89ACFC623EB869F41CFA",
+  "keywordClasses": [
+    {
+      "name": "reusebleKeywords.CustomKeywords",
+      "keywordMethods": [
+        {
+          "name": "printMessage",
+          "parameters": [
+            {
+              "name": "message",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
