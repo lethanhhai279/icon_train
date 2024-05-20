@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "BA953BE97EE07B226AB9BEEA07B5AD78",
+  "keywordClasses": [
+    {
+      "name": "swagLabs.Error",
+      "keywordMethods": [
+        {
+          "name": "FindErrorAndGoToPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

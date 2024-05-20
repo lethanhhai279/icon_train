@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "FFF6CD9C3212FBA6D13B086A2851CD51",
+  "keywordClasses": [
+    {
+      "name": "swagLabs.loginPage",
+      "keywordMethods": [
+        {
+          "name": "setup_login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

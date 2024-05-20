@@ -1,0 +1,54 @@
+{
+  "keywordFileContentHash": "2B37C0BE073A6E1C5A29F4C765B3E5E7",
+  "keywordClasses": [
+    {
+      "name": "swagLabs.Page",
+      "keywordMethods": [
+        {
+          "name": "setup_login",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "GoToPage",
+          "parameters": [
+            {
+              "name": "sNamePage",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "CanNotGoToPage",
+          "parameters": [
+            {
+              "name": "sNamePage",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

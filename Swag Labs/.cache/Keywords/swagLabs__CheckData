@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "A8BC8CF2470BE8272EB3EE037408C1BE",
+  "keywordClasses": [
+    {
+      "name": "swagLabs.CheckData",
+      "keywordMethods": [
+        {
+          "name": "OnlyCharacter",
+          "parameters": [
+            {
+              "name": "Data",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

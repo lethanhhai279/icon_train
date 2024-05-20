@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "7A58AF429F8DC6F68B17DF7F67E753C4",
+  "keywordClasses": [
+    {
+      "name": "ticket1.Menu",
+      "keywordMethods": [
+        {
+          "name": "openMenu",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

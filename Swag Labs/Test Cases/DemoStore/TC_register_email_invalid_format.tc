@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_register_email_invalid_format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2aeafb3-095c-401e-819b-c6e0a9cec039</testCaseGuid>
+</TestCaseEntity>

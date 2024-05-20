@@ -1,0 +1,67 @@
+{
+  "keywordFileContentHash": "709747728137366B56F89FF4F9CC2D5F",
+  "keywordClasses": [
+    {
+      "name": "swagLabs.TotalPrice",
+      "keywordMethods": [
+        {
+          "name": "findPriceOfProduct",
+          "parameters": [
+            {
+              "name": "iTheNumberOfProduct",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "getTaxInBill",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyPrice",
+          "parameters": [
+            {
+              "name": "price",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "float",
+                "unresolvedClassName": "float",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "tax",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "float",
+                "unresolvedClassName": "float",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

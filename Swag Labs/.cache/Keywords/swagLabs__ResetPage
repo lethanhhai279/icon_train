@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "A276284C2992EBB75C95EAF2388780BD",
+  "keywordClasses": [
+    {
+      "name": "swagLabs.ResetPage",
+      "keywordMethods": [
+        {
+          "name": "resetPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
